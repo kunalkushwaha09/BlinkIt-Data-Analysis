@@ -27,14 +27,16 @@ This project focuses on analyzing customer behavior, product trends, and operati
 - **Top 10 Products**: Packaged snacks, dairy items, and staples dominate.
 - **Delivered Categories**: Fresh produce and frozen foods.
 
-
-## 📬 Contact
-- Author: Your Name
-- 📧 Email: yourname@example.com
-- 🔗 LinkedIn: linkedin.com/in/yourprofile
+ -- 
 
 ## 📈 Future Improvements
 - Integrate live API data (if accessible)
 - Build an interactive dashboard with Streamlit or Power BI
 - Predictive analytics: Customer churn or product demand forecasting
 
+--
+
+## 📬 Contact
+- Author: Your Name
+- 📧 Email: kunalkushwaha099@example.com
+- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/kunal-kushwaha-94434821a/)

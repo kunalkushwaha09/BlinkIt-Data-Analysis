@@ -39,4 +39,4 @@ This project focuses on analyzing customer behavior, product trends, and operati
 ## 📬 Contact
 - Author: Your Name
 - 📧 Email: kunalkushwaha099@example.com
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/kunal-kushwaha-94434821a/)
+- 🔗 LinkedIn: [linkedin.com/in/Kunal Kushwaha](https://www.linkedin.com/in/kunal-kushwaha-94434821a/)
